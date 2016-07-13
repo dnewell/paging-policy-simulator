@@ -1,7 +1,5 @@
 /**
  * 	Author: David Newell
- * 		SN: 250332100
- * 	   For: Professor Hanan Lutfiyya
  * 	   
  * simulator.c
  * 
@@ -13,7 +11,6 @@
  *			 	 trace: name of file containing the memory trace input
  *			 		-v: enable verbose output mode (optional)
  *
- * 	Thank you for all your work this semester, and have a great summer!
  */
 #include <stdio.h>
 #include <string.h>
